@@ -1,6 +1,3 @@
-layout: page
-title: "PAGE TITLE"
-permalink: /cats/
 
 # I do really like cats
 
